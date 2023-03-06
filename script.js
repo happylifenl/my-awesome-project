@@ -1,1 +1,3 @@
-const name = "test"
+const firstName = "John"
+
+console.log(firstName)
